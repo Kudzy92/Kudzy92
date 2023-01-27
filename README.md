@@ -30,10 +30,10 @@ https://kudzyportfolio.vercel.app
 <h3> 🤝🏻 Connect with Me </h3>
 
 <p align="center">
-<!-- <a href="https://kudzyportfolio.vercel.app/"><img alt="Website" src="https://img.shields.io/badge/Website-www.adityavsingh.com-blue?style=flat-square&logo=google-chrome"></a> -->
-<a href="https://www.linkedin.com/in/kudzaimadziva"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Ravi%20Patel-blue?style=flat-square&logo=linkedin"></a>
-<a href="https://www.instagram.com/kudzaimadziva/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-ravipatel84-blue?style=flat-square&logo=instagram"></a>
-<a href="https://www.twitter.com/kudzaimadziva/"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-ravi84184-blue?style=flat-square&logo=twitter"></a>
+<!-- <a href="https://kudzyportfolio.vercel.app/"><img alt="Website" src="https://img.shields.io/badge/Website-www.kudzyportfolio.vercel.app-blue?style=flat-square&logo=google-chrome"></a> -->
+<a href="https://www.linkedin.com/in/kudzaimadziva"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-kudzaimadziva-blue?style=flat-square&logo=linkedin"></a>
+<a href="https://www.instagram.com/kudzaimadziva/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-kudzaimadziva-blue?style=flat-square&logo=instagram"></a>
+<a href="https://www.twitter.com/kudzaimadziva/"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-kudzaimadziva-blue?style=flat-square&logo=twitter"></a>
 <a href="mailto:kudziemadziva@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-kudziemadziva@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
 
