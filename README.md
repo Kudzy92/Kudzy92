@@ -12,7 +12,7 @@
 
 <h3>🛠 Tech Stack</h3>
 
-- 💻 &nbsp; Flutter | Spring Boot  | Java | PHP | REACTJS 
+- 💻 &nbsp; Java Core | Spring Framework | Spring Boot | Python | REACTJS 
 - 🌐 &nbsp; HTML | CSS | JavaScript 
 - 🛢 &nbsp; MySQL | MongoDB | SQLite 
 - 🔧 &nbsp; Git 
